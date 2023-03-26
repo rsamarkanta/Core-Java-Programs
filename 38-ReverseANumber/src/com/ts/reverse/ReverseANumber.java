@@ -11,8 +11,8 @@ public class ReverseANumber {
 		num = sc.nextInt();
 		// reverse num and store it to rev
 		while (num > 0) {
-			int div = num % 10;
-			rev = (rev * 10) + div;
+			int rem = num % 10;
+			rev = (rev * 10) + rem;
 			num = num / 10;
 		}
 		System.out.println("Afer reverse : " + rev);
