@@ -2,7 +2,7 @@ package com.ts.add;
 
 import java.util.Scanner;
 
-public class AddTwoMatrix {
+public class AddTwoMatrices {
 
 	public static void main(String[] args) {
 
