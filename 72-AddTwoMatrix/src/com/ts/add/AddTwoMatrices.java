@@ -20,7 +20,7 @@ public class AddTwoMatrices {
 			}
 		}
 		// take input for Second Matrix
-		System.out.println(" Enter first matrix Data : ");
+		System.out.println(" Enter Second matrix Data : ");
 		for (int i = 0; i < 2; i++) {
 			for (int j = 0; j < 2; j++) {
 				b[i][j] = sc.nextInt();
@@ -45,7 +45,7 @@ public class AddTwoMatrices {
 			System.out.println();
 		}
 
-		// Add two matrix
+		// Add two matrices
 		for (int i = 0; i < 2; i++) {
 			for (int j = 0; j < 2; j++) {
 				c[i][j] = a[i][j] + b[i][j];
@@ -53,7 +53,7 @@ public class AddTwoMatrices {
 		}
 
 		// Print after adding
-		System.out.println("\nAfter adding both Array :");
+		System.out.println("\nAfter adding both matrices :");
 		for (int i = 0; i < 2; i++) {
 			for (int j = 0; j < 2; j++) {
 				System.out.print(c[i][j] + " ");
