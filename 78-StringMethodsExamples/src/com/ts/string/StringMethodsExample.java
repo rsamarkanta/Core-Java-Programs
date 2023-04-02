@@ -35,6 +35,24 @@ public class StringMethodsExample {
 		// to check string is empty or not
 		System.out.println(str4.isEmpty());
 
+		// change value of string
+		str4 = "Github";
+
+		// to check string is empty or not
+		System.out.println(str4.isEmpty());
+
+		// to find char in the given index no of String
+		System.out.println(str1.charAt(5));
+
+		// to find char/String in the given index no of String
+		System.out.println(str2.indexOf('s'));
+
+		// for content comparison
+		System.out.println(str3.equals(str4));
+
+		// to replace character/string
+		System.out.println(str4.replace('t', 'm'));
+
 	}
 
 }
