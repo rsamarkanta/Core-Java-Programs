@@ -1,6 +1,6 @@
 # Core-Java-Programs
 
-## 100 Basic Java Questions to practice for interview
+## 100 Basic Java Programs to practice for interview
 
 1. Java Hello World program .
 
@@ -182,22 +182,22 @@
 
 90. java program to copy content from file and rename a file . 
 
-91. Java Program for ArrayList
+91. Java Program for ArrayList .
 
-92. Java Program for HashSet
+92. Java Program for HashSet .
 
-93. Java Program for HashMap methods p
+93. Java Program for HashMap methods .
 
-94. Java program to use Queue interface
+94. Java program to use Queue interface .
 
-95. Java Program to demonstrate Inheritance
+95. Java Program to demonstrate Inheritance .
 
-96. Java Program to demonstrate Run Time Polymorphism
+96. Java Program to demonstrate Run Time Polymorphism .
 
-97. Java Program to demonstrate Static Polymorphism Example
+97. Java Program to demonstrate Compile Time Polymorphism .
 
-98. Java Program to demonstrate Encapsulation
+98. Java Program to demonstrate Encapsulation .
 
-99. Java Program to demonstrate Lambda Expression
+99. Java Program to demonstrate Lambda Expression .
 
-100. Java Program to use time class for Date and Time
+100. Java Program to use time class for Date and Time .
